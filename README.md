@@ -1,4 +1,4 @@
-# Calculadora IGTF e IVA - Grupo Punteral (Versión Elite)
+# Calculadora IGTF e IVA - Grupo Punteral
 
 Aplicación web profesional para cálculo de IGTF (3%) e IVA (16%) con diseño responsivo, modo oscuro, persistencia, tasa BCV en tiempo real y generación de PDF.
 
